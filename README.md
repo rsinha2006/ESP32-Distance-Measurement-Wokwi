@@ -31,7 +31,3 @@ https://wokwi.com/projects/468790792472031233
 - Displays distance in the Serial Monitor.
 - LED and buzzer activate when the measured distance is greater than **100 cm**.
 - Real-time distance can be adjusted using the HC-SR04 distance slider in Wokwi.
-
-## Author
-
-Ernet
